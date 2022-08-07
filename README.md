@@ -1,4 +1,4 @@
-Home Page
+Home Page:Landing Page of website
 
 <img width="960" alt="Screenshot 2022-08-06 083805" src="https://user-images.githubusercontent.com/64826301/183231284-3ccfb77c-3a37-4c62-a43d-4946ab5b1b5d.png">
 
