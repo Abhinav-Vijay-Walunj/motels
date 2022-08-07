@@ -2,11 +2,11 @@ Home Page:Landing Page of website
 
 <img width="960" alt="Screenshot 2022-08-06 083805" src="https://user-images.githubusercontent.com/64826301/183231284-3ccfb77c-3a37-4c62-a43d-4946ab5b1b5d.png">
 
-Service Available section
+Free Services available with rooms:
 
 <img width="960" alt="Screenshot 2022-08-06 083821" src="https://user-images.githubusercontent.com/64826301/183231293-730c72fb-92ee-4f64-bcf4-76de530aaaee.png">
 
-Featured Room
+Featured Rooms at our place:
 
 <img width="960" alt="Screenshot 2022-08-06 083851" src="https://user-images.githubusercontent.com/64826301/183231301-356fca43-0ed3-4947-8a52-13e6a1aba870.png">
 
